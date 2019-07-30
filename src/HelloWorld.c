@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main (void){
-    puts("Helloworld");
+    char moji[] = "HelloWorld";
+    puts(moji);
     puts("こんにちは");
     return 0;
 }
